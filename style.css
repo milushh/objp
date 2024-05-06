@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+}
+
+.header-infa{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 42px;
+}
+.header-infa a{
+    text-decoration: none;
+    color: white;
+    margin-left: 15px;
+   
+}
+.header-infa button{
+    position:absolute;
+    right:152px;
+    width: 140px;
+    height: 48px;
+    border-radius: 8px;
+    border-color: white;
+    background: black;
+    color: white;
+
+   
+
+}
+.logo{
+    position: absolute;
+    left: 152px;
+ 
+}
+
+.luxury-car{
+   display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 192px;
+    line-height: 30px;
+}
+.luxury-car h1{
+    color: white;
+    line-height: 30px;
+}
+.luxury-car p{
+    color: #E1E1E1;
+    font-size: 15px;
+}
